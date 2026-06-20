@@ -4,7 +4,7 @@
 >
 > 一个对小白友好的双语仪表盘，实时查看与对比美股财报，用大白话讲解，并能随你的水平一起成长。
 
-**🔗 Live demo:** https://senjay43223.github.io/market-earnings-dashboard/
+**🔗 Live demo:** https://benjaminjason.github.io/market-earnings-dashboard/
 
 ---
 
