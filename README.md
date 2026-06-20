@@ -1,5 +1,15 @@
 # 📊 Market Earnings Dashboard · 全市场财报仪表盘
 
+<p align="center">
+  <a href="https://benjaminjason.github.io/market-earnings-dashboard/"><img alt="Live demo" src="https://img.shields.io/badge/demo-live-1d9e75?style=flat-square"></a>
+  <img alt="License" src="https://img.shields.io/github/license/BenjaminJason/market-earnings-dashboard?style=flat-square&color=185fa5">
+  <img alt="Built with" src="https://img.shields.io/badge/built%20with-HTML%20%C2%B7%20JS-ef9f27?style=flat-square">
+  <img alt="Data" src="https://img.shields.io/badge/data-Finnhub-533ab7?style=flat-square">
+  <img alt="i18n" src="https://img.shields.io/badge/lang-%E4%B8%AD%20%2F%20EN-d4537e?style=flat-square">
+  <img alt="PWA" src="https://img.shields.io/badge/PWA-installable-1d9e75?style=flat-square">
+  <a href="https://github.com/BenjaminJason/market-earnings-dashboard/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/BenjaminJason/market-earnings-dashboard?style=flat-square&color=ef9f27"></a>
+</p>
+
 > A beginner-friendly, bilingual dashboard to read and compare US stock earnings in real time — with plain-language explanations that grow with you.
 >
 > 一个对小白友好的双语仪表盘，实时查看与对比美股财报，用大白话讲解，并能随你的水平一起成长。
